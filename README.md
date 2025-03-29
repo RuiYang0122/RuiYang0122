@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ray_Yang
-- 👀 I’m interested in App development with AI(Swift&Cursor), Intelligent Vehicle
-- 🌱 I’m currently learning XAI, Front-end&Back-end development...
+- 👋 I’m Ray_Yang
+- 🌱 Currently learning emmmm...Everything.
 - 🏫 CongXin-College, Information Science and Engineering School, ShanDong University
 - 📫 How to reach me @yangrui0122@foxmail.com
 - ⚡ Fun fact: Crazy Solo-Tripper🧳, Car marcket🛞, Formula 1🏎️...
