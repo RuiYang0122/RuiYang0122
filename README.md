@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+RuiYang0122;Learning+World+Model;Self-Driving+Automobile" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  Currently learning World Model, VLA4AD ,Self-Driving Automobile.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+RuiYang;World+Model+VLA+and+Self-Driving+Automobile" alt="Typing SVG" />
 </div>
 
 <br/>
