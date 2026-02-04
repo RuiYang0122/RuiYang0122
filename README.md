@@ -11,6 +11,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuiYang0122/RuiYang0122/output/github-contribution-grid-snake.svg">
   </picture>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={RuiYang0122}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiYang0122&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 </div>
