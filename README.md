@@ -11,6 +11,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuiYang0122/RuiYang0122/output/github-contribution-grid-snake.svg">
   </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuiYang0122)
+
 
 </div>
